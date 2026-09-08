@@ -1,7 +1,7 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+# Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+## Date: 24/09/2025
+## Reg No: 212223240080
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -9,13 +9,13 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ## Procedure:
 1.	Analyze the Given Image:
 ○	Examine the image carefully, noting key elements such as:
-■	Objects/Subjects (e.g., people, animals, objects)
-■	Colors (e.g., dominant hues, contrasts)
-■	Textures (e.g., smooth, rough, glossy)
-■	Lighting (e.g., bright, dim, shadows)
-■	Background (e.g., outdoor, indoor, simple, detailed)
-■	Composition (e.g., focal points, perspective)
-■	Style (e.g., realistic, artistic, cartoonish)
+*	Objects/Subjects (e.g., people, animals, objects)
+*	Colors (e.g., dominant hues, contrasts)
+*	Textures (e.g., smooth, rough, glossy)
+*	Lighting (e.g., bright, dim, shadows)
+*	Background (e.g., outdoor, indoor, simple, detailed)
+*	Composition (e.g., focal points, perspective)
+*	Style (e.g., realistic, artistic, cartoonish)
 2.	Create the Basic Prompt:
 ○	Write an initial, simple description of the image. For example, if the image shows a landscape, the prompt could be "A serene landscape with mountains and a river."
 3.	Refine the Prompt with More Detail:
@@ -51,5 +51,21 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
+## Prompt Used:
+Take this classic realism portrait and reproduce it as a digital anime-style illustration. Preserve the character’s facial expression, pose, and key features. Apply anime-style characteristics such as large expressive eyes, clean linework, simplified shading, and vibrant but harmonious colors. Retain the original composition and lighting as much as possible while giving it a modern, stylized anime aesthetic suitable for digital art or character concept design.
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## IMAGES:
+
+* Original
+<img width="800" height="1422" alt="image" src="https://github.com/user-attachments/assets/7bd12698-1176-480c-9217-0d869328d623" />
+
+
+
+* Reproduced
+
+<img width="585" height="1024" alt="image" src="https://github.com/user-attachments/assets/dd1c445b-0bcd-43e1-a145-42be72c71270" />
+
+
+## RESULT:
+
+Thus the prompt is successfully executed.
